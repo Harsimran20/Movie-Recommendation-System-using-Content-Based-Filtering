@@ -11,8 +11,7 @@ This project leverages a Reinforcement Learning (RL) approach to build a persona
 3. [Dataset](#dataset)
 4. [Model Implementation](#model-implementation)
 5. [Steps to Run](#steps-to-run)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [License](#license)
 
 ## Project Description
 
