@@ -90,16 +90,6 @@ jupyter notebook
 
 The model will be trained on the movie dataset using Reinforcement Learning techniques. The trained model can be saved for future use.
 
-## Contributing
-
-We welcome contributions to this project! If you have suggestions for improvements or bug fixes, feel free to submit a pull request or open an issue.
-
-Steps for Contributing:
-1. Fork the repository
-2. Create a new branch
-3. Implement your changes
-4. Submit a pull request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
